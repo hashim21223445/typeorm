@@ -138,7 +138,7 @@
     "mysql2": "^3.1.1",
     "pg": "^8.9.0",
     "pg-query-stream": "^4.3.0",
-    "prettier": "^2.8.3",
+    "prettier": "^3.4.2",
     "redis": "^4.6.4",
     "remap-istanbul": "^0.13.0",
     "rimraf": "^4.1.2",
